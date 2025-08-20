@@ -2,7 +2,7 @@
 
 [![Release](https://img.shields.io/github/v/release/VipTechDev/ark-of-osiris?label=Latest%20Release)](https://github.com/VipTechDev/ark-of-osiris/releases/latest)
 
-Welcome to the Ark of Osiris! This tool helps simulate matchmaking scores for team balancing in Ark of Osiris-style scenarios from ROK. Built with Python and powered by remixable data, it's designed for transparency, learning, and public sharing.
+Welcome to the Ark of Osiris! This tool helps simulate matchmaking scores for team balancing in Ark of Osiris matches from ROK. Built with Python and powered by remixable data, it's designed for transparency, learning, and public sharing.
 
 ---
 
